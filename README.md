@@ -2,21 +2,22 @@
 
 逆向原版喵喵助手的输入喵化工具：断句追加"喵"、猫猫颜文字、自定义替换规则。
 
-> ⚠️ 本仓库**不公开源码**，仅通过 [Releases](https://github.com/ldkkk325/miao-helper/releases) 发布编译产物。
+> ⚠️ 本仓库**不公开源码**，仅通过 [Releases](https://github.com/ldkkk325/miao-helper-releases/releases) 发布编译产物。
 >
 > ⚠️ **请只从本仓库 Releases 页面下载 APK。** 非官方渠道分发的版本可能被植入病毒或后门，
-> 应用内置签名校验，检测到第三方构建时会提示风险。
+> 应用内置签名校验（原生层），检测到第三方构建时会提示风险并引导至本页。
 
 ## 功能速览
 
 - 标点触发 / 实时处理 双模式喵化
 - 断句追加 + 句末猫猫颜文字（概率可调）
 - 自定义替换规则、豁免标记、54 个内置颜文字库
-- 快捷磁贴总开关、后台保活授权
+- **生效范围自由勾选**：任意应用均可启用，支持搜索与用户/系统应用筛选
+- 快捷磁贴总开关、后台保活授权、一键关闭服务
 - 多主题取色方案（含 Android 12+ 壁纸动态取色三档）
 - 统计面板、配置导出/导入
 
 ## 安装
 
-到 [Releases](https://github.com/ldkkk325/miao-helper/releases) 下载最新 APK 安装，
+到 [Releases](https://github.com/ldkkk325/miao-helper-releases/releases) 下载最新 APK 安装，
 开启无障碍服务即可使用。
