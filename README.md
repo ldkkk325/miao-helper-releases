@@ -2,7 +2,8 @@
 
 逆向原版喵喵助手的输入喵化工具：断句追加"喵"、猫猫颜文字、自定义替换规则。
 
-> ⚠️ 本仓库**不公开源码**，仅通过 [Releases](https://github.com/ldkkk325/miao-helper-releases/releases) 发布编译产物。
+> ⚠️ 本仓库**不公开源码**，源码在 _https://github.com/ldkkk325/MeowAssistant_
+>> 仅通过 [Releases](https://github.com/ldkkk325/miao-helper-releases/releases) 发布编译产物。
 >>  3.0后版本只支持安卓12+
 ## 功能速览
 
